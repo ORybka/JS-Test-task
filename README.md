@@ -1,6 +1,7 @@
 # Phaser 3 JS test task
 
 A Phaser 3 test project with ES6 support via [Babel 7](https://babeljs.io/) and [Webpack 4](https://webpack.js.org/).
+
 **To change the customization scene and dialogues, please press spacebar.**
 
 # Setup
