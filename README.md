@@ -27,15 +27,7 @@ Run:
 
 `npm install`
 
-### 4. Build for the development:
-
-Run:
-
-`npm run build`
-
-This will build code bundle with production settings
-
-## 5. Build for start:
+### 4. Build for start:
 
 Run:
 
