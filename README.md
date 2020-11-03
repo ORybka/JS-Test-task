@@ -28,7 +28,7 @@ Run:
 
 `npm install`
 
-## 4. Build for start:
+### 4. Build for start:
 
 Run:
 
